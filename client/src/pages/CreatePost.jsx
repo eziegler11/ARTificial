@@ -24,6 +24,8 @@ const CreatePost = () => {
     setForm({ ...form, prompt: randomPrompt });
   };
 
+  // image isn't generating for some reason...
+
 	const generateImage = async () => {
 		if (form.prompt) {
 			try {
