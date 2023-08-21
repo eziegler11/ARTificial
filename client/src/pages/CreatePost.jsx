@@ -52,6 +52,7 @@ const CreatePost = () => {
 	};
 
 	const handleSubmit = () => {};
+  // need to add a function for this
 
 
 	return (
